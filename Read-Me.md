@@ -11,6 +11,11 @@ Read me file for:
 
 ->Link To Github: https://github.com/MeekTheAbominable-Clemson/Will-of-the-Ancients
 
+->Compile And Run:
+   -Compile: make
+   -Run: make run
+   -Clean: make clean
+
 ->Features:
    -Fully Navigable Map
    -Interactive items and enemies
