@@ -96,8 +96,18 @@ public class RPG {
 
             System.out.println(title.get(i));
         }
+
         System.out.println();
-        System.out.println("For A list of commands type \"help\"");
+        System.out.println("-For list of exits: exits");
+        System.out.println("-For list of enemies: enemies");
+        System.out.println("-For list of objects: objects");
+        System.out.println("-To inspect an object: inspect <object_name>");
+        System.out.println("-To move to a new area: move <exit>");
+        System.out.println("-To attack enemy: attack <enemy_name>");
+        System.out.println("-To exit game: leave");
+        System.out.println("-To exit game: exit");
+        System.out.println();
+        System.out.println("Type \"help\" to reprint the above list");
         System.out.println();
 
 
